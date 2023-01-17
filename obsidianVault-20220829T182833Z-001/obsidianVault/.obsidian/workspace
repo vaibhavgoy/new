@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "bede1457536b56e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "146b66305a1fb3f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Birthday.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eda51eeb086ee37e",
+    "type": "split",
+    "children": [
+      {
+        "id": "787b33401e563f27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74dbf78a5e2122cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3af0ce0bf44b600",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12e4f479e2ab72c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b276b18aaeabc2f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0147fb8dc8aaacb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Birthday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "146b66305a1fb3f2",
+  "lastOpenFiles": [
+    "vocab.md",
+    "Reasons for buying a new phone.md",
+    "shortcuts to be used.md",
+    "Linux command line.md",
+    "important username and passwords.md",
+    "git  command line.md",
+    "Ideas that can be worked upon.md",
+    "Art of writing.md",
+    "Birthday.md",
+    "C star points.md"
+  ]
+}
